@@ -1,0 +1,5 @@
+   Home (State) //Home的狀態(可讓Edit和List共享)  data,setData
+    /\    (props)
+Edit  List
+       \
+      Item
